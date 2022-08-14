@@ -3,6 +3,8 @@ Unity project reproducing the Logic Maze: Theseus and the Minotaur (http://www.l
 
 Available for playing in a WebGL version: https://simmer.io/@Amadeu/theseus-maze
 
+Sprites are from the game Tibia and I don't own any rights of them.
+
 Screenshot of gameplay:
 ![TheseusMaze_SS01](https://user-images.githubusercontent.com/25543840/184554703-870b5c5e-b1d1-4c31-a1c6-42b52338f9c3.png)
 
